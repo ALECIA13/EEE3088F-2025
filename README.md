@@ -1,4 +1,5 @@
 # EEE3088F-2025
+## Authors; Khanyisa Hlungwani and Maitele Makungo
 Power Module design
 
 Work Breakdown
