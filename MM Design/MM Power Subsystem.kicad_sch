@@ -5074,6 +5074,454 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_JLCPCB-Connectors_Buttons:Tactile Button, 160gf"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Tactile Button, 160gf"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 0.8 0.8)
+					)
+				)
+			)
+			(property "Footprint" "PCM_JLCPCB:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XKB-Connection-TS-1187A-B-A-B_C318884.pdf"
+				(at -2.286 0.127 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C318884"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Stock" "430701"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Price" "0.025USD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Process" "SMT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Minimum Qty" "10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Attrition Qty" "5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Class" "Basic Component"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Category" "Switches,Tactile Switches"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "XKB Connectivity"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part" "TS-1187A-B-A-B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Switch Length" "5.1mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating (Dc)" "12V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "With Lamp" "No"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Operating Force" "160gf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Actuator/Cap Color" "Golden"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mechanical Life" "100000 Times"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Strike Gundam" "NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Circuit" "SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Switch Height" "1.5mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Actuator Style" "Round Button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Switch Width" "5.1mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Contact Current" "50mA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Operating Temperature" "-30°C~+85°C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mounting Style" "Brick nogging"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C318884"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Tactile Button, 160gf_0_1"
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -5.08) (xy 2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 0.762) (xy -1.27 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0.508)
+					(radius 0.3175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 0 -2.794)
+					(radius 0.3175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.302) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 -5.08 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Tactile Button, 160gf_1_1"
+				(rectangle
+					(start -2.54 5.08)
+					(end 2.54 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Management:TPS22929D"
 			(pin_names
 				(offset 1.016)
@@ -5269,7 +5717,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:MIC5219YMM"
+		(symbol "Regulator_Linear:AP2112K-3.3"
 			(pin_names
 				(offset 0.254)
 			)
@@ -5277,14 +5725,15 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at -3.81 5.715 0)
+				(at -5.08 5.715 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" "MIC5219YMM"
+			(property "Value" "AP2112K-3.3"
 				(at 0 5.715 0)
 				(effects
 					(font
@@ -5293,7 +5742,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 				(at 0 8.255 0)
 				(effects
 					(font
@@ -5302,7 +5751,16 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf"
+			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5311,7 +5769,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "500mA low dropout linear regulator, adjustable output, MSOP-8"
+			(property "ki_keywords" "linear regulator ldo fixed positive"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5320,7 +5778,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "500mA ultra-low-noise LDO linear voltage regulator adjustable positive"
+			(property "ki_fp_filters" "SOT?23?5*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5329,16 +5787,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "MSOP*3x3mm*P0.65mm*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MIC5219YMM_0_1"
+			(symbol "AP2112K-3.3_0_1"
 				(rectangle
 					(start -5.08 4.445)
 					(end 5.08 -5.08)
@@ -5351,18 +5800,18 @@
 					)
 				)
 			)
-			(symbol "MIC5219YMM_1_1"
+			(symbol "AP2112K-3.3_1_1"
 				(pin power_in line
 					(at -7.62 2.54 0)
 					(length 2.54)
-					(name "IN"
+					(name "VIN"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5380,7 +5829,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5398,7 +5847,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5406,56 +5855,18 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -7.62 90)
+				(pin no_connect line
+					(at 5.08 0 180)
 					(length 2.54)
 					(hide yes)
-					(name "GND"
+					(name "NC"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5466,32 +5877,14 @@
 				(pin power_out line
 					(at 7.62 2.54 180)
 					(length 2.54)
-					(name "OUT"
+					(name "VOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 7.62 -2.54 180)
-					(length 2.54)
-					(name "ADJ"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5667,182 +6060,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Switch:SW_SPDT"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_SPDT"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Switch, single pole double throw"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_SPDT_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.651 0.254) (xy 1.651 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 2.54)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -2.54)
-					(radius 0.4572)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_SPDT_1_1"
-				(rectangle
-					(start -3.175 3.81)
-					(end 3.175 -3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6172,6 +6389,12 @@
 		(uuid "56c6e8d1-7616-4e48-b828-d970faa9fdb0")
 	)
 	(junction
+		(at 48.26 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5714a434-c637-4832-998a-e0b02525c180")
+	)
+	(junction
 		(at 311.15 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6226,7 +6449,7 @@
 		(uuid "794c824f-2ec3-41b1-a710-2869172dc9fe")
 	)
 	(junction
-		(at 186.69 242.57)
+		(at 186.69 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bfb43c5-5be2-4df6-b003-761ec8ea77d3")
@@ -6358,12 +6581,6 @@
 		(uuid "d275fe39-451d-4ad8-8b00-d1449a4fcdc7")
 	)
 	(junction
-		(at 78.74 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d290d936-7a56-43fe-ae18-45ebbbb70d12")
-	)
-	(junction
 		(at 52.07 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6380,12 +6597,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcb19261-e0fb-4e52-8d4e-29864a805888")
-	)
-	(junction
-		(at 78.74 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dee19a02-619f-456a-8a16-adc878498122")
 	)
 	(junction
 		(at 80.01 218.44)
@@ -6484,16 +6695,6 @@
 			(type default)
 		)
 		(uuid "004e24b7-a746-4a2c-8700-04577517a11e")
-	)
-	(wire
-		(pts
-			(xy 186.69 242.57) (xy 186.69 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "019e3d0f-6e90-4728-bc6a-c2f256349d5c")
 	)
 	(wire
 		(pts
@@ -6777,7 +6978,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 223.52) (xy 184.15 224.79)
+			(xy 176.53 224.79) (xy 176.53 234.95)
 		)
 		(stroke
 			(width 0)
@@ -6877,6 +7078,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 224.79) (xy 184.15 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "271dbf17-6bd2-4c0b-a697-5b6ee746a918")
+	)
+	(wire
+		(pts
 			(xy 52.07 232.41) (xy 52.07 233.68)
 		)
 		(stroke
@@ -6954,6 +7165,16 @@
 			(type default)
 		)
 		(uuid "294d9f0f-0307-4205-898e-c6a095fa7ead")
+	)
+	(wire
+		(pts
+			(xy 176.53 224.79) (xy 184.15 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "296bc89c-cbc4-4979-94b3-16d5b244a454")
 	)
 	(wire
 		(pts
@@ -7177,6 +7398,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 242.57) (xy 186.69 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46fa57c4-70ce-4479-998d-5a4fac0f5a85")
+	)
+	(wire
+		(pts
 			(xy 322.58 63.5) (xy 325.12 63.5)
 		)
 		(stroke
@@ -7347,7 +7578,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 246.38) (xy 186.69 246.38)
+			(xy 168.91 252.73) (xy 186.69 252.73)
 		)
 		(stroke
 			(width 0)
@@ -7464,6 +7695,16 @@
 			(type default)
 		)
 		(uuid "5e05d56b-04c1-44a3-9d3a-27fa57261202")
+	)
+	(wire
+		(pts
+			(xy 48.26 49.53) (xy 54.61 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e15115a-d3c4-4abb-bd56-2045e8adf2fa")
 	)
 	(wire
 		(pts
@@ -7687,16 +7928,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 53.34) (xy 78.74 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "717f17a7-e18a-4d67-8f79-c5ff56d4e928")
-	)
-	(wire
-		(pts
 			(xy 80.01 218.44) (xy 68.58 218.44)
 		)
 		(stroke
@@ -7787,7 +8018,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 49.53) (xy 54.61 49.53)
+			(xy 38.1 49.53) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -8287,13 +8518,13 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 49.53) (xy 72.39 48.26)
+			(xy 186.69 248.92) (xy 186.69 252.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b23893ca-9e6e-474b-bbd9-9cf137ae1619")
+		(uuid "b2a764d0-578b-40eb-a476-57f11585686f")
 	)
 	(wire
 		(pts
@@ -8377,16 +8608,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 60.96) (xy 78.74 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb978d12-606e-4d82-9989-b72d233f752d")
-	)
-	(wire
-		(pts
 			(xy 62.23 218.44) (xy 62.23 226.06)
 		)
 		(stroke
@@ -8424,16 +8645,6 @@
 			(type default)
 		)
 		(uuid "c10b83ca-0443-4baa-8166-5dfb553d6f48")
-	)
-	(wire
-		(pts
-			(xy 72.39 48.26) (xy 78.74 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c301fd6c-37b9-4b34-b8e1-eabc9f7c20d7")
 	)
 	(wire
 		(pts
@@ -8597,17 +8808,17 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 48.26) (xy 92.71 49.53)
+			(xy 48.26 57.15) (xy 48.26 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cdc0d88c-5afb-4b21-bdfe-441191bca5f5")
+		(uuid "cd75e050-3de6-41c0-947b-7da1f1171ed5")
 	)
 	(wire
 		(pts
-			(xy 78.74 48.26) (xy 92.71 48.26)
+			(xy 72.39 49.53) (xy 92.71 49.53)
 		)
 		(stroke
 			(width 0)
@@ -8654,16 +8865,6 @@
 			(type default)
 		)
 		(uuid "d116035d-3351-47e9-a81f-ea8aef2d37a1")
-	)
-	(wire
-		(pts
-			(xy 78.74 54.61) (xy 78.74 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2b4af18-f612-4d45-84a0-9a30a9b6b8dc")
 	)
 	(wire
 		(pts
@@ -8957,16 +9158,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 54.61) (xy 78.74 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8d74153-0709-4d8d-9528-f5cf59025ecc")
-	)
-	(wire
-		(pts
 			(xy 314.96 140.97) (xy 314.96 154.94)
 		)
 		(stroke
@@ -8974,16 +9165,6 @@
 			(type default)
 		)
 		(uuid "faeae3fd-b814-4fb1-8f1d-e8a90c2b04fc")
-	)
-	(wire
-		(pts
-			(xy 186.69 234.95) (xy 186.69 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb43db01-4972-4c27-afbc-36c7ef1c9190")
 	)
 	(wire
 		(pts
@@ -9034,16 +9215,6 @@
 			(justify right bottom)
 		)
 		(uuid "08de1051-bafc-4ccc-a713-3b621cfb1e19")
-	)
-	(label "Batt"
-		(at 320.04 226.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0d4dea49-82e1-4f60-b8a8-69492cb90706")
 	)
 	(label "Motor2_B_OUT"
 		(at 363.22 205.74 180)
@@ -9187,16 +9358,6 @@
 		)
 		(uuid "6c727fd9-b106-4bdb-adee-2320ab5fa161")
 	)
-	(label "BATT"
-		(at 50.8 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "75f98f67-11e5-4c5c-b362-175fa39037bc")
-	)
 	(label "FAST_CHARGE_CTRL"
 		(at 363.22 220.98 180)
 		(effects
@@ -9246,16 +9407,6 @@
 			(justify right bottom)
 		)
 		(uuid "ba1a9a7f-2069-4e79-b037-421517caaab2")
-	)
-	(label "3V3 Out"
-		(at 97.79 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bcf2fc90-b2ae-46f1-9639-3aa0c1716adb")
 	)
 	(label "HV"
 		(at 375.92 231.14 0)
@@ -9764,7 +9915,7 @@
 	)
 	(global_label "Battery"
 		(shape input)
-		(at 168.91 246.38 180)
+		(at 168.91 252.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9774,7 +9925,7 @@
 		)
 		(uuid "58aada90-a147-4a7e-adfc-89f28335f8a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.212 246.38 0)
+			(at 159.212 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9868,6 +10019,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3 Out"
+		(shape output)
+		(at 97.79 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87a36cad-304b-4d95-b6ac-6d7697dff97a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.4556 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10158,6 +10331,28 @@
 			)
 		)
 	)
+	(global_label "5V Out"
+		(shape input)
+		(at 38.1 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc34c852-1da7-49b1-8a27-5a16da6f4ed3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.6439 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MOTOR1_B_OUT"
 		(shape output)
 		(at 288.29 73.66 0)
@@ -10395,6 +10590,72 @@
 			(project "MM Power Subsystem"
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02d33db7-21d0-41b0-a86a-8c16b98ffa2d")
+		(property "Reference" "#PWR07"
+			(at 48.26 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87521a26-4222-4af7-a8eb-bcdc731bb4c3")
+		)
+		(instances
+			(project "MM Power Subsystem"
+				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -10825,44 +11086,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPDT")
-		(at 184.15 229.87 270)
+		(lib_id "Regulator_Linear:AP2112K-3.3")
+		(at 64.77 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1056d2b6-ac53-4789-88e1-01aff42f2b08")
-		(property "Reference" "SW1"
-			(at 189.23 228.5999 90)
+		(uuid "17fc21b4-8bb8-45e9-9cc1-72039afbb9fc")
+		(property "Reference" "U1"
+			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "SW_SPDT"
-			(at 189.23 231.1399 90)
+		(property "Value" "AP2112K-3.3"
+			(at 64.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Angled_CK_OS102011MA1Q"
-			(at 184.15 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 229.87 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 64.77 43.815 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10870,8 +11120,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
-			(at 184.15 229.87 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+			(at 64.77 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,19 +11129,34 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "0effcc1b-5aca-4f32-b2d0-2781d06ee69c")
+		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "61323adb-2f06-4411-9141-d6c9ef546bbf")
+			(uuid "1a8b4565-32a2-4303-b254-42f97eb7e356")
 		)
 		(pin "1"
-			(uuid "34454d37-5e0d-4bcf-8f8b-6516120ea213")
+			(uuid "e3ee8de0-5a6a-4ce2-a8a0-99155a15b9f7")
+		)
+		(pin "3"
+			(uuid "80fbae23-6342-4ec5-860c-df782faed834")
+		)
+		(pin "4"
+			(uuid "91885e47-a1a9-4f71-9df2-1dea8437601b")
+		)
+		(pin "5"
+			(uuid "82313e43-5f28-4d60-b8fb-3ec0675a376a")
 		)
 		(instances
-			(project "MM Power Subsystem"
+			(project ""
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "SW1")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -12092,76 +12357,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 78.74 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30141e20-c697-4478-adc6-ed393827316e")
-		(property "Reference" "R3"
-			(at 81.28 49.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 81.28 52.0699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 78.74 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 78.74 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 78.74 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f70fee60-6757-46df-a7f8-9d7251d02c66")
-		)
-		(pin "2"
-			(uuid "7dceee39-ed7d-487b-9128-b5807455a3c0")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 335.28 43.18 270)
 		(unit 1)
@@ -13009,6 +13204,91 @@
 			(project "MM Power Subsystem"
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Shunt_US")
+		(at 184.15 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45977100-200f-4c6c-b61d-6eeb4df2ebcc")
+		(property "Reference" "R1"
+			(at 181.61 217.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "3m"
+			(at 181.61 219.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.372 218.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt resistor, US symbol"
+			(at 184.15 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5375459"
+			(at 184.15 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "150bdb33-1aaf-4018-b7fb-3286ff422864")
+		)
+		(pin "2"
+			(uuid "444c7fbd-0e3b-4395-8762-b31205f6acfc")
+		)
+		(pin "3"
+			(uuid "42bca5ef-644f-41bd-a0ee-07f79ae5faf5")
+		)
+		(pin "1"
+			(uuid "79ef35a3-faf2-4977-916d-4c3c1d8ad6ea")
+		)
+		(instances
+			(project ""
+				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -14311,6 +14591,298 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_JLCPCB-Connectors_Buttons:Tactile Button, 160gf")
+		(at 181.61 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70f59803-24b2-4627-813e-e9e48ea2c248")
+		(property "Reference" "S1"
+			(at 181.61 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Tactile Button, 160gf"
+			(at 181.61 229.87 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2"
+			(at 181.61 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XKB-Connection-TS-1187A-B-A-B_C318884.pdf"
+			(at 179.324 237.363 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C318884"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "430701"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.025USD"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "10"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "5"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Switches,Tactile Switches"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "XKB Connectivity"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "TS-1187A-B-A-B"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Switch Length" "5.1mm"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (Dc)" "12V"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "With Lamp" "No"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Force" "160gf"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Actuator/Cap Color" "Golden"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mechanical Life" "100000 Times"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Strike Gundam" "NO"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Circuit" "SPST"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Switch Height" "1.5mm"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Actuator Style" "Round Button"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Switch Width" "5.1mm"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Contact Current" "50mA"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-30°C~+85°C"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Brick nogging"
+			(at 181.61 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c53f94cb-8abb-4c45-aba1-5d84af017314")
+		)
+		(pin "1"
+			(uuid "93d496fe-5b11-4eb6-9cdd-e17bf54b0f86")
+		)
+		(pin "2"
+			(uuid "a41b3a62-7653-4f35-9edf-5c2c0b54a24c")
+		)
+		(pin "3"
+			(uuid "a7181502-ef20-4b6a-b234-bcae57e05cca")
+		)
+		(instances
+			(project ""
+				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
+					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 302.26 59.69 270)
 		(unit 1)
@@ -14438,91 +15010,6 @@
 			(project "MM Power Subsystem"
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
 					(reference "TP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Shunt_US")
-		(at 184.15 218.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bbdeb7e-ba5a-457c-9372-4406898ac224")
-		(property "Reference" "R29"
-			(at 181.61 217.1699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "3m"
-			(at 181.61 219.7099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Ohmite_LVK20"
-			(at 182.372 218.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 184.15 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Shunt resistor, US symbol"
-			(at 184.15 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5375459"
-			(at 184.15 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "00e91cbd-144d-45b7-adfd-8f7dd76ca3c3")
-		)
-		(pin "1"
-			(uuid "721e8dc9-1c42-41b7-8e0e-996dae2eac6e")
-		)
-		(pin "3"
-			(uuid "eba95bb9-02de-4e37-a73d-3c9c782403da")
-		)
-		(pin "4"
-			(uuid "15695a66-353b-40be-bc5e-a3d3f6da9995")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -15905,17 +16392,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 78.74 58.42 0)
+		(lib_id "Device:C")
+		(at 48.26 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a9a3c963-531b-4514-a90a-92e8f4ffd3ae")
-		(property "Reference" "R2"
-			(at 81.28 57.1499 0)
+		(uuid "a8650836-e4ad-4dbf-a1e7-20bb1fc8e682")
+		(property "Reference" "C8"
+			(at 52.07 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15923,8 +16410,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150k"
-			(at 81.28 59.6899 0)
+		(property "Value" "1uF"
+			(at 52.07 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15932,8 +16419,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 78.74 58.42 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 49.2252 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15942,7 +16429,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 58.42 0)
+			(at 48.26 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15950,91 +16437,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 78.74 58.42 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 48.26 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "cf4de375-2fdd-45e3-9758-9d590f8c61d4")
 		)
 		(pin "2"
-			(uuid "6adffa1b-7810-4c12-8d77-9b2a147014a0")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 320.04 231.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aaf9ed52-9941-4f87-865a-6d42ffa27ac2")
-		(property "Reference" "#PWR038"
-			(at 320.04 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 320.04 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 320.04 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 320.04 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 320.04 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+			(uuid "835cb10b-594b-44e1-8a60-6c278272d2dc")
 		)
 		(pin "1"
-			(uuid "85e49d17-b7ac-431d-b676-1242753f0a7e")
+			(uuid "efb8f7bf-8654-4391-b987-5d91b6d86a66")
 		)
 		(instances
 			(project "MM Power Subsystem"
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "#PWR038")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -16283,76 +16704,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 320.04 228.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae361197-376b-4788-8174-80d03a87bc32")
-		(property "Reference" "C20"
-			(at 322.58 227.3362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 322.58 229.8762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 320.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 320.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 320.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd298b39-89eb-497f-9a94-9b207c10d17c")
-		)
-		(pin "2"
-			(uuid "91d6b6f6-f8e4-47f1-b49f-798120d62968")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 44.45 111.76 0)
 		(unit 1)
@@ -16553,7 +16904,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 186.69 242.57 270)
+		(at 186.69 248.92 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16562,7 +16913,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba3ff1ea-9666-4ca0-95ac-7d2b56b8d35b")
 		(property "Reference" "TP20"
-			(at 191.77 241.2999 90)
+			(at 191.77 247.6499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16571,7 +16922,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 191.77 243.8399 90)
+			(at 191.77 250.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16580,7 +16931,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 186.69 247.65 0)
+			(at 186.69 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16589,7 +16940,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 247.65 0)
+			(at 186.69 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16598,7 +16949,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 186.69 242.57 0)
+			(at 186.69 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,72 +17574,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 78.74 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c3969627-af4c-4653-86c0-ee301bbdbee6")
-		(property "Reference" "#PWR03"
-			(at 78.74 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.74 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ba425d59-4c31-48d9-93a5-c3dffa75ee25")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 334.01 63.5 0)
 		(unit 1)
@@ -17350,101 +17635,6 @@
 			(project "MM Power Subsystem"
 				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
 					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:MIC5219YMM")
-		(at 64.77 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca05428d-3323-4743-a8bf-9466f4848e9f")
-		(property "Reference" "U4"
-			(at 64.77 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MIC5219YMM"
-			(at 64.77 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
-			(at 64.77 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf"
-			(at 64.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "500mA low dropout linear regulator, adjustable output, MSOP-8"
-			(at 64.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C29613"
-			(at 64.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cd62cce5-4054-4d46-a7e8-db69f3238c32")
-		)
-		(pin "7"
-			(uuid "a0d95c75-1eda-47ac-8a79-7eaf02f8d595")
-		)
-		(pin "4"
-			(uuid "84120a92-a29b-4759-bf92-379b31de44be")
-		)
-		(pin "5"
-			(uuid "e2734683-a742-4e1a-bb28-6583ccf8d4dd")
-		)
-		(pin "6"
-			(uuid "25206c3e-048a-432a-9d04-bdf571652bf2")
-		)
-		(pin "8"
-			(uuid "acf2ad61-d63d-4171-ae5d-4fa70b345278")
-		)
-		(pin "3"
-			(uuid "4a210bb8-ed27-4270-b2f3-a27dc41d2747")
-		)
-		(pin "1"
-			(uuid "2a10e48d-3dac-42b8-becc-3a352a24cbb5")
-		)
-		(instances
-			(project "MM Power Subsystem"
-				(path "/e8861a28-dc9d-4caa-9231-1091fd68be8f"
-					(reference "U4")
 					(unit 1)
 				)
 			)
