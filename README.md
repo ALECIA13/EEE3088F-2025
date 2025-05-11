@@ -1,9 +1,3 @@
-Sure! I’ll write a polished and professional GitHub README that clearly explains your Micro-Mouse power module project, outlines the work split between team members, and provides helpful context for readers or collaborators.
-
-I’ll include sections for project overview, subsystem role, member contributions, and build contents.
-
-I’ll share the updated README shortly.
-
 
 # EEE3088F-2025 Micro-Mouse Power Module
 
