@@ -75,11 +75,7 @@ This project was completed as an academic course project by the authors, so it m
 * **Teammates:** Appreciation to each other as team members for the collaboration and division of work that made this Power Module successful.
 * **Resources:** The Micro-Mouse community and prior projects provided inspiration and insight. Resources like online Micromouse forums and documentation helped shape the design (for example, understanding common voltage requirements and battery choices for micromouse robots).
 
-## License
 
-*(Specify the license under which the project is released, if applicable. For a course project, this may be unlicensed or all rights reserved. If not otherwise stated, you can mention that the design is for educational purposes.)*
-
-**Example:** This project is released under the MIT License – see the [LICENSE](./LICENSE) file for details. If using this work, please attribute the original authors.
 
 ---
 
