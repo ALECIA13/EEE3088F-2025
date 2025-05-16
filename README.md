@@ -27,7 +27,7 @@ The repository is organized into folders and files that represent different aspe
 
 * **Final Design** – This folder includes the finalized documentation and outputs of the project. It typically contains the final report or design document for the power module, a Bill of Materials (BOM) listing all components used, and any presentation slides or additional references. It may also include **final revision** schematic/PCB printouts and assembly drawings, as well as test results or data from the completed module. In short, the **Final Design** folder serves as a comprehensive package of the finished power module design and can be used for review or submission purposes.
 
-*(If applicable, the repository may also include firmware or code related to the power module — for example, microcontroller code for battery monitoring. Such code (if present) will be located in a separate `Firmware` directory with its own README or documentation.)*
+
 
 ## Usage and Integration
 
